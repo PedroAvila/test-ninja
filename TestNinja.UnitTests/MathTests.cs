@@ -22,12 +22,13 @@ namespace TestNinja.UnitTests
 
 
         [Test]
-        [Ignore("Because I wanted to!")]
+        //[Ignore("Because I wanted to!")]
         public void AddWhenCalled_ReturnTheSumOfArguments()
         {
             var math = new Math();
             var result = math.Add(1, 2);
             Assert.That(result, Is.EqualTo(3));
+            
         }
 
         [Test]

@@ -24,3 +24,16 @@ D:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.Ass
 D:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
 D:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 D:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Csharp\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Csharp\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
